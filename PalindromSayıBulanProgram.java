@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author LENOVO
  */
-public class PalindromSayıBulanProgram {
+public class PalindromSayiBulanProgram {
     
     //Kullanıcı tarafından girilen sayının palindrom sayı olup olmadığını kontorol eden metot
    static boolean iSPalindrom(int number){
